@@ -363,10 +363,16 @@ NFC-based local payment card system with instant transaction logging, secure car
   <i>"I bridge the gap between high-performance backends and intuitive user interfaces — creating software that feels alive."</i>
 </p>
 
----
+<!-- 3D CONTRIBUTION MAP -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devplabon/devplabon/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0a040,50:2d1b4e,100:1a1a2e&section=footer&height=120&text=⭐%20From%20devplabon%20—%20Dhaka,%20Bangladesh%20🇧🇩&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+
