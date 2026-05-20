@@ -336,12 +336,12 @@ NFC-based local payment card system with instant transaction logging, secure car
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=devplabon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&icon_color=e0a040&text_color=8b949e&ring_color=e0a040" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devplabon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&icon_color=e0a040&text_color=8b949e&ring_color=e0a040" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devplabon&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=e0a040&ring=e0a040&fire=e0a040&currStreakLabel=e0a040&sideLabels=8b949e&currStreakNum=e0a040&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=devplabon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devplabon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e0a040&text_color=8b949e&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
