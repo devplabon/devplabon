@@ -282,7 +282,7 @@ Secure eBook publishing and reading application with end-to-end content encrypti
 `Flutter` `Laravel` `Firebase` `Python` `MySQL`
 
 </td>
-td width="33%">
+<td width="33%">
 
 #### 💳 Tcard
 **NFC Contactless Payments**
